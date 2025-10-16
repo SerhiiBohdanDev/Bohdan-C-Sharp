@@ -2,8 +2,8 @@
 
 
 Answer the questions  
-Given bracket sequence: [((())()(())]] 
-    • Can this sequence be considered correct? 
+Given bracket sequence: [((())()(())]]  
+    • Can this sequence be considered correct?  
     • If the answer to the previous question is “no”, then what needs to be changed in it to make it correct? 
 
 No, the sequence is incorrect.
