@@ -1,0 +1,14 @@
+F:\Andersen\Bohdan-C-Sharp\bin\Debug\net9.0\Bohdan-C-Sharp.exe
+F:\Andersen\Bohdan-C-Sharp\bin\Debug\net9.0\Bohdan-C-Sharp.deps.json
+F:\Andersen\Bohdan-C-Sharp\bin\Debug\net9.0\Bohdan-C-Sharp.runtimeconfig.json
+F:\Andersen\Bohdan-C-Sharp\bin\Debug\net9.0\Bohdan-C-Sharp.dll
+F:\Andersen\Bohdan-C-Sharp\bin\Debug\net9.0\Bohdan-C-Sharp.pdb
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.AssemblyInfoInputs.cache
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.AssemblyInfo.cs
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.csproj.CoreCompileInputs.cache
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.dll
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\refint\Bohdan-C-Sharp.dll
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.pdb
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\Bohdan-C-Sharp.genruntimeconfig.cache
+F:\Andersen\Bohdan-C-Sharp\obj\Debug\net9.0\ref\Bohdan-C-Sharp.dll
